@@ -1,6 +1,7 @@
 
 class calculator {
 
+  //operation of number (5)
 
   num num1 = 5;
   num num2 = 5;

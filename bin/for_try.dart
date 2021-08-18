@@ -8,32 +8,15 @@ import 'empolee.dart';
 
 void main(List<String> arguments) {
 
-print(empolee().Salary());
+
+empolee().Salary();
+empolee().position();
 
 
-
-  // print("the operation of the number 5" );
-  //
-  // var operation = calculator();
-  // operation.sum();
-  // operation.sub();
-  // operation.divid();
-  // operation.multi();
 
 
 }
-// num? operation (String op, num num1, num num2)
-// {
-//   switch (op){
-//     case '+' :
-//       return num1+num2;
-//     case '_' :
-//       return num1-num2;
-//     case '*' :
-//       return num1*num2;
-//     case '/' :
-//       return num1/num2;
-//
-//   }
-// }
+
+
+
 
